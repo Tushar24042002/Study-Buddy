@@ -23,3 +23,6 @@ Link Of Website is https://www.studybuddy.store
 Used Tools - React Js, Jsx, HTML, Css, Scss, Javascript, React-router-dom, React-Dom, React-Bootstrap, React-scss, React-Pdf, React-share-social, React-slick, React-pagination, React-Carousel, React-Modal
 
 
+# Setup
+
+**npm-run-dev**
