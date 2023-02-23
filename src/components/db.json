@@ -1,0 +1,169 @@
+{
+ 
+  "courses-12":[
+    {
+    "id":1,
+    "subject":"english",
+    "image":"english",
+    "description":"English - Class-12, previous year question paper-2022",
+    "download":"assets/images/courses-12/english-2022.pdf",
+    "view":"assets/images/courses-12/english-2022.pdf",
+    "author":"Tushar",
+    "class":"class-12"
+
+},
+{
+  "id":2,
+  "subject":"hindi",
+  "image":"hindi",
+  "description":"hindi - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/hindi-2022.pdf",
+  "view":"assets/images/courses-12/hindi-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},
+{
+  "id":3,
+  "subject":"maths",
+  "image":"maths",
+  "description":"maths - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/maths-2022.pdf",
+  "view":"assets/images/courses-12/maths-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},
+{
+  "id":4,
+  "subject":"physics",
+  "image":"physics",
+  "description":"physics - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/physics-2022.pdf",
+  "view":"assets/images/courses-12/physics-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":5,
+  "subject":"chemistry",
+  "image":"chemistry",
+  "description":"chemistry - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/chemistry-2022.pdf",
+  "view":"assets/images/courses-12/chemistry-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":6,
+  "subject":"biology",
+  "image":"biology",
+  "description":"biology - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/biology-2022.pdf",
+  "view":"assets/images/courses-12/biology-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":7,
+  "subject":"hindi",
+  "image":"hindi",
+  "description":"hindi - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/hindi-2022.pdf",
+  "view":"assets/images/courses-12/hindi-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":8,
+  "subject":"polscience",
+  "image":"polscience",
+  "description":"polscience - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/polscience-2022.pdf",
+  "view":"assets/images/courses-12/polscience-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":9,
+  "subject":"physical",
+  "image":"physical",
+  "description":"physical - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/physical-2022.pdf",
+  "view":"assets/images/courses-12/physical-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":10,
+  "subject":"c++",
+  "image":"c++",
+  "description":"c++ - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/c++-2022.pdf",
+  "view":"assets/images/courses-12/c++-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":11,
+  "subject":"sociology",
+  "image":"sociology",
+  "description":"sociology - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/sociology-2022.pdf",
+  "view":"assets/images/courses-12/sociology-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":12,
+  "subject":"bussiness",
+  "image":"bussiness",
+  "description":"bussiness - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/bussiness-2022.pdf",
+  "view":"assets/images/courses-12/bussiness-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":13,
+  "subject":"accounts",
+  "image":"accounts",
+  "description":"accounts - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/accounts-2022.pdf",
+  "view":"assets/images/courses-12/accounts-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":14,
+  "subject":"chemistry",
+  "image":"chemistry",
+  "description":"chemistry - Class-12, previous year question paper-2020",
+  "download":"assets/images/courses-12/chemistry-2020.pdf",
+  "view":"assets/images/courses-12/chemistry-2020.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":15,
+  "subject":"maths",
+  "image":"maths",
+  "description":"maths - Class-12, previous year question paper-2020",
+  "download":"assets/images/courses-12/maths-2020.pdf",
+  "view":"assets/images/courses-12/maths-2020.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+},{
+  "id":16,
+  "subject":"economics",
+  "image":"economics",
+  "description":"economics - Class-12, previous year question paper-2022",
+  "download":"assets/images/courses-12/economics-2022.pdf",
+  "view":"assets/images/courses-12/economics-2022.pdf",
+  "author":"Tushar",
+    "class":"class-12"
+
+}
+]
+}
