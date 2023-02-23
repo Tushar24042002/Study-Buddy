@@ -29,6 +29,8 @@ StudyBuddy is an Educational Website, It provides you complete solutions to your
 # Setup
 
 **npm-run-dev** For Start This Project On your Localhost Server 
+
+
 **npm-run-build** For Deploy This Project On Free https Servers
 
 **Thank You**
